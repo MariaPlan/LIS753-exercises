@@ -6,3 +6,6 @@ h1 , h2 { color: #3F2E56;
 }
 
 a { color: #759AAB;}
+
+img { max-width: 100%;
+height: auto;}
