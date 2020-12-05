@@ -1,0 +1,113 @@
+
+header {
+position: fixed ;
+margin-right: 20px ;
+margin-left: -10px ;
+
+}
+
+ul {
+  margin-top: 0px ;
+  padding-top: 0px ;
+  margin: 0px;
+  margin-left: 0px ;
+  overflow: hidden;
+  background-color: #ffffff;
+  list-style-type: none;
+  color: #52796f ;
+}
+
+li {
+  float: left;
+}
+
+
+li a:hover {
+  background-color: #778da9;
+}
+
+footer {
+  background-image: url(../assets/images/so-white.png) ;
+  text-align: left ;
+  margin-left: 30px ;
+  margin-right: 40px ;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  border-top: 2px solid #778da9;
+}
+
+body {
+  background-color: #ffffff ;
+  font-family: arial, sans-serif;
+  margin-left: 80px ;
+}
+
+
+h1 { color: #415a77 ;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 45pt ;
+  padding-bottom: 0px ;
+}
+
+h2 { color: #1b263b;
+  margin-top: 0px ;
+  margin-bottom: 0px;
+  }
+
+h3 { color: #1b263b;
+    margin-top: 0px ;
+    margin-bottom: 0px;
+    font-weight: normal;
+    }
+
+
+p {margin-top: 20px ;
+  line-height: 1.5 ;
+  margin-right: 50px ;
+}
+
+.nav {
+  display: block;
+  padding-right: 30px;
+  background-color: #ffffff;
+  color: #1b263b ;
+  font-size: 16pt ;
+}
+
+.img_research {
+  padding-right: 50px
+  float: left;
+}
+
+.research {
+  padding-left: 20px ;
+  line-height: 2 ;
+  font-size: 16pt ;
+  background-color: #ffffff ;
+  color: #415a77 ;
+}
+
+.wrapper {
+  background-color: #ffffff;
+  margin: 0 auto;
+  padding-left: 30px ;
+  padding-bottom: 30px ;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.caption {
+  font-style: italic;
+  text-align: left;
+  margin-top: 4px;
+}
+
+#grave {
+  max-height:500px;
+    max-width:500px;
+    height:auto;
+    width:auto;
+}
